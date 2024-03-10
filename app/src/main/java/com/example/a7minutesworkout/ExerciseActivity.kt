@@ -22,7 +22,7 @@ class ExerciseActivity : AppCompatActivity() {
 
     private var exerciseTimer: CountDownTimer? = null
     private var exerciseProgress = 0
-    //sdasdadadsadadasdadsadadadasdadadadasdasdadadadadadasdasdasdasdadasdasdasdasd
+
     private var exerciseTimerDuration: Long = 1
 
     private var exerciseList: ArrayList<ExerciseModel>? = null
